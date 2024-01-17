@@ -17,8 +17,8 @@ Los usuarios deberían poder:
 
 ### Links
 
-- Solution URL: [Solución](https://github.com/Josself/Landing-Page)
-- Live Site URL: [Sitio Web](https://landing-page-josselfdev.surge.sh/)
+- Solution URL: [Solución](https://github.com/Josself/Qr-Page)
+- Live Site URL: [Sitio Web](https://qr-page-josselfdev.surge.sh/)
 
 ### Built with
 
